@@ -6,4 +6,5 @@
             coordsEl.parentElement.classList.remove('invisible');
         });
     }
+     add custom logic here
 })();
